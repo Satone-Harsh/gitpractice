@@ -1,3 +1,9 @@
+Eat club ki party to deh bhai
 This is file 1 and I edited it on remote repo and then it is again updated on local repo
 checking for pull request
+<<<<<<< HEAD
 a second pull request
+=======
+>>>>>>> d04b7f64b9e735aebfa34524fe093234d92ca9d7
+
+150 bhej pehele 
